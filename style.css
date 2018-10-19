@@ -1,11 +1,17 @@
-html 
-<style>
-{
-background-color:#f5f4ec;
-}
-{
-header 
-  
+body {
+    background: #f5f4ec;
+    color: #56638a;
+    font-family: 'Lato', sans-serif;
 }
 
-</style>
+h1 {
+    font-size: 3em;
+}
+
+h1, h2 {
+    font-family: 'Slabo 13px', serif;
+}
+
+img {
+    width: 400px;
+}
